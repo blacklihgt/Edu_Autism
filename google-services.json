@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918648933634",
+    "project_id": "edu-kenya-autism",
+    "storage_bucket": "edu-kenya-autism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918648933634:android:4148cd84f1e5756c29c61b",
+        "android_client_info": {
+          "package_name": "com.dsciitp.shabd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918648933634-mcv8areueutqrv5m7p05j9pt9gf9b63r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGMxXs9dKY2JsNYjixZZfwLmXxzKp8eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918648933634-mcv8areueutqrv5m7p05j9pt9gf9b63r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
